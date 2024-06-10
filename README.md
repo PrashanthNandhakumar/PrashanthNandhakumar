@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Prashanthnithish
+- 👋 Hi, I’m Prashanth Nandhakumar
 - 👀 I’m interested in GenAI, AR, Python, Web Development and Java.
 - 🌱 I’m currently learning GenAi and AR.
 - 💞️ I’m looking to collaborate on Web development and GenAI.
